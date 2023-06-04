@@ -1,0 +1,7 @@
+.HeaderContainer {
+    background: rgb(37, 153, 199);
+    width: 100vw;
+    height: 10vh;
+    text-align: center;
+    display: flex;
+}

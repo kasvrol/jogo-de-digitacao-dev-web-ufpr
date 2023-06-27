@@ -1,12 +1,10 @@
 import "./styles/App.css";
-import Header from "./components/header";
-import Footer from "./components/footer";
+import Jogo from "./pages/jogo";
 
 function App() {
     return (
         <div className="Container">
-            <Header />
-            <Footer />
+            <Jogo />
         </div>
     );
 }

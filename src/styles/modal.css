@@ -1,0 +1,28 @@
+.ModalContainer {
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    height: 50vh;
+    justify-content: space-evenly;
+    align-items: center;
+    position: absolute;
+}
+
+.ModalTexto {
+    color: white;
+    font-size: 2rem;
+    padding: 1vh 1vw;
+}
+
+.ModalBotao {
+    font-size: 1rem;
+    border: none;
+    background-color: white;
+    padding: 1vh 1vw;
+}
+
+.ModalInformacao {
+    color: white;
+    font-size: 1.5rem;
+    padding: 1vh 1vw;
+}

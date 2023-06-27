@@ -1,0 +1,12 @@
+.InputContainer {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    padding: 5vh 5vw;
+}
+
+.Input {
+    width: 50%;
+    height: 20vh;
+    margin-bottom: 6.5vh;
+}

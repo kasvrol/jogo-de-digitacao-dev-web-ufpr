@@ -1,0 +1,20 @@
+.JogoContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.Jogo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.VerLetraPressionada {
+    width: 4rem;
+    height: 20vh;
+}
+
+.LetraPressionada {
+    font-size: 2rem;
+    padding: 5vh 0;
+}

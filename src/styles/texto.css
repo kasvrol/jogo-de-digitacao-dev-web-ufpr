@@ -1,0 +1,6 @@
+.TextoContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5vh 5vw 5vh 5vw;
+}

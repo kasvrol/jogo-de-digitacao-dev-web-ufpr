@@ -25,13 +25,13 @@ Dentro do dashboard aparecerá a pontuação global e das ligas que o usuário p
 -   Com o node 18.16.0 e o git instalado em sua máquina, clone o projeto pelo o comando:
 
 ```bash
-git clone lalala
+git clone https://github.com/kasvrol/jogo-de-digitacao-dev-web-ufpr.git
 ```
 
 -   Entre no diretório do projeto, ainda pelo terminal git:
 
 ```bash
-cd lalala
+cd jogo-de-digitacao-dev-web-ufpr
 ```
 
 -   Instale a biblioteca com npm:
